@@ -13,3 +13,12 @@
     align-items: center;
     justify-content: center;
 }
+
+.btn{
+    font-size: 22px;
+    font-weight: 500;
+    padding: 10px 60px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    
+}
